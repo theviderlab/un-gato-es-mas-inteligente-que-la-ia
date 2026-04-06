@@ -2,6 +2,8 @@
 
 ¿Es la Inteligencia Artificial que usamos hoy el techo de la tecnología, o simplemente un desvío estadístico en el camino hacia algo mucho más profundo? En esta charla, desarmaremos la arquitectura de los modelos actuales para entender por qué, a pesar de su asombrosa capacidad de lenguaje, carecen de una intuición real sobre el mundo y se enfrentan a limitaciones que los datos masivos no pueden solucionar. Vamos a hablar sobre un cambio de paradigma hacia los "Modelos del Mundo" y cómo una nueva arquitectura inspirada en la biología podría ser la verdadera llave para alcanzar la Inteligencia Artificial General, permitiendo que las máquinas no solo predigan palabras, sino que finalmente comprendan la realidad. 
 
+[Presentación](https://canva.link/vxc80ug0cgt35h4)
+
 ## Introducción: El Santo Grial de la Informática
 Desde sus inicios, la informática ha perseguido un objetivo máximo: la Inteligencia Artificial General (AGI). Aunque no existe una definición consensuada, una de las más aceptadas describe a la AGI como cualquier inteligencia flexible y general, con recursos y fiabilidad comparables a la inteligencia humana.
 Históricamente, el Test de Turing (1950) proponía que si un humano no podía distinguir si hablaba con otra persona o con una máquina, habríamos alcanzado la AGI. Sin embargo, hoy sabemos que imitar el lenguaje no es equivalente a poseer inteligencia.
